@@ -96,10 +96,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -116,14 +112,6 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "python",
-    icon: python,
-  },
-  {
     name: "git",
     icon: git,
   },
@@ -135,30 +123,7 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
-  {
-    name: "django",
-    icon: django,
-  },
-  {
-    name: "postgres",
-    icon: postgres,
-  },
-  {
-    name: "sql",
-    icon: sql,
-  },
-  {
-    name: "threejs",
-    icon: threejs,
-  },
-  {
-    name: "next",
-    icon: next,
-  },
-  {
-    name: "vue",
-    icon: vue,
-  },
+
 ];
 
 const experiences = [
