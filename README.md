@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://jeffjiang.vercel.app/"><strong>🚀 View Demo</strong></a>
+    <a href="https://madilportfolio.netlify.app/"><strong>🚀 View Demo</strong></a>
 </p>
 
 ## About The Project
@@ -48,7 +48,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/jeffjiang13/3d-portfolio.git
+git clone https://github.com/Adil1964/Final-portfolio-website.git
 ```
 2. Install NPM packages
 ```sh
